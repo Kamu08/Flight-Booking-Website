@@ -30,7 +30,7 @@ Welcome to the Flight Booking Website, a React application designed to streamlin
 
 ## 🚀 Live Link
 
-Check out the live Flight Booking Website: [Flight Booking Website](https://flightbookingkml.netlify.app/)
+Check out the live Flight Booking Website: https://flightbookingkml.netlify.app/
 
 ## 🏃 How to Run
 
