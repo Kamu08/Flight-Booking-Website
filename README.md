@@ -30,13 +30,16 @@ Welcome to the Flight Booking Website, a React application designed to streamlin
 
 ## 🚀 Live Link
 
-Check out the live Flight Booking Website: [Flight Booking Website](https://your-flight-booking-website.netlify.app/)
+Check out the live Flight Booking Website: [Flight Booking Website](https://flightbookingkml.netlify.app/)
 
 ## 🏃 How to Run
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Install dependencies:
+3. Install dependencies:   
 
-   ```bash
-   npm install
+## 🌟 Screenshots
+![fb1](https://github.com/Kamu08/Flight-Booking-Website/assets/87929852/7a189bf1-fbef-4ef3-b0a9-66834261937d)
+
+
+![fb2](https://github.com/Kamu08/Flight-Booking-Website/assets/87929852/87a85482-1acf-44ce-9d1d-8f6097183ffe)
