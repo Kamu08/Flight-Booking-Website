@@ -17,16 +17,7 @@ Welcome to the Flight Booking Website, a React application designed to streamlin
 - **Tailwind CSS**: A utility-first CSS framework for styling components.
 - **JavaScript**: Implements interactivity and dynamic behavior.
 - **React**: Building interactive and dynamic user interfaces.
-- **React Router**: Handling navigation within the application.
-- **Axios**: Making asynchronous HTTP requests for flight data.
 
-## ✨ Features
-
-- 📅 Search and book flights based on dates and destinations.
-- 🧑‍💼 User authentication for secure bookings.
-- ✈️ Real-time flight availability and pricing information.
-- 📄 Booking history and user account management.
-- 🌐 Responsive design for optimal viewing on various devices.
 
 ## 🚀 Live Link
 
